@@ -56,6 +56,39 @@ A base original foi tratada e enriquecida antes de ir para o Power BI. O resulta
 
 Todas as páginas têm filtros e interações cruzadas: clicar em um gráfico ou quadrante filtra os demais visuais da página.
 
+## 🖼️ Telas do dashboard
+
+![Visão Executiva](docs/screenshots/01-visao-executiva.png)
+
+<details>
+<summary><b>Ver as demais páginas</b></summary>
+
+### 02 Produtos e Categorias
+
+![02 Produtos e Categorias](docs/screenshots/02-produtos-e-categorias.png)
+
+### 03 Descontos e Avaliações
+
+![03 Descontos e Avaliações](docs/screenshots/03-descontos-e-avaliacoes.png)
+
+### 04.1 O que os clientes valorizam
+
+![04.1 O que os clientes valorizam](docs/screenshots/04-1-o-que-os-clientes-valorizam.png)
+
+### 04.2 Problemas mais frequentes
+
+![04.2 Problemas mais frequentes](docs/screenshots/04-2-problemas-mais-frequentes.png)
+
+### 04.3 Temas em avaliações
+
+![04.3 Temas em avaliações](docs/screenshots/04-3-temas-em-avaliacoes.png)
+
+### 05 Recomendações
+
+![05 Recomendações](docs/screenshots/05-recomendacoes.png)
+
+</details>
+
 ## 💡 Principais insights
 
 ### Visão geral
