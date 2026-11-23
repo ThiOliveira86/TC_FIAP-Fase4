@@ -21,6 +21,8 @@ TC_FIAP-Fase4/
 │   └── TCF4_BaseUnificadaV5.1.pbix                 # Dashboard Power BI (entregável)
 ├── data/
 │   └── TechChallenge_F4_IMPORTAR_NO_POWERBI.xlsx   # Base tratada importada pelo Power BI (18 tabelas)
+├── docs/
+│   └── screenshots/                                # Imagens das 7 páginas do dashboard
 └── README.md
 ```
 
